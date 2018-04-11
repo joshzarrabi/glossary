@@ -1,6 +1,6 @@
 ---
 headword: OM
-expansion: Operations Manager
-definition:
-links:
+expansion: Operations Manager CLI
+definition: Command line tool to interact with opsmanager that is maintaned by the releng team. 
+links: https://github.com/pivotal-cf/om
 see_also:
